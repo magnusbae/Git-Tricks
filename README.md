@@ -6,7 +6,7 @@ Collection of nifty git-tricks that makes everyday life better
 ---
 
 #### Lazy push to non-upstream remote branch:
-Problem: Pushing to non-upstream remote branch require a lot of writing.
+Problem: Pushing to non-upstream remote branch requires a lot of writing.
 
 Solution:
 ```shell
