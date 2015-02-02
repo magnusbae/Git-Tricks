@@ -7,10 +7,17 @@ Collection of nifty git-tricks that makes everyday life better
 
 **Table of Contents**  *generated with [DocToc](http://doctoc.herokuapp.com/)*
 
-
-- [Lazy push to non-upstream remote branch:](#user-content-lazy-push-to-non-upstream-remote-branch)
+- [Git pull with rebase:](#git-pull-with-rebase-instead-of-merge)
 - [Practical aliases:](#practical-aliases)
+- [Lazy push to non-upstream remote branch:](#user-content-lazy-push-to-non-upstream-remote-branch)
 
+---
+#### Git pull with rebase instead of merge
+A bit ashamed not to have picked up this one earlier, but here goes:
+
+```bash
+git pull -r
+```
 ---
 #### Practical aliases
 
